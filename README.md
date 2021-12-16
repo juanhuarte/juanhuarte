@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66688256/146368822-8dc437d9-316a-4c23-b21d-a1f7a2b3dbd6.png" alt="Your image title" width = 900px height= 200px />
+<img src="https://user-images.githubusercontent.com/66688256/146372352-7127566e-a64b-4b72-a143-7b84e73289b0.png" alt="Your image title" width = 900px height= 200px />
 
 
 ### Hi there 👋
@@ -30,14 +30,12 @@ I’m a true lover of technologies trying to become a well-rounded professional 
 
 
 •	Git⁣
-
 ⁣
 ## 𝐋𝐢𝐧𝐤𝐬:⁣
 
 How to reach me: 
 
 •      https://www.linkedin.com/in/juan-ignacio-huarte/
-
 
 
 ## Featured Projects
@@ -71,7 +69,6 @@ I'm gonna show you some pictures of my web application:
 ### Home Page 
 
 ![image](https://user-images.githubusercontent.com/66688256/146370078-ade11e9f-a869-40a6-8dc6-dbda6d29eda2.png)
-
 ![image](https://user-images.githubusercontent.com/66688256/146370130-7a58e41b-f54f-4833-a3af-62e8789a755e.png)
 
 
