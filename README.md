@@ -83,7 +83,7 @@ I'm gonna show you some pictures of my web application:
 
 
 
-## Fianl Project 
+## Final Project 
 
 
 This project describes the design of a portable low-power signal acquisition and wireless transmitter device with autonomous power. Its function is to acquire an analog signal with a maximum bandwidth of 10KHz and two range amplitudes of ± 10V and ± 100mV. This must be done keeping a minimum dynamic range of 60dB for both cases. Then the digitized signal has to be transmitted wirelessly to an external receiver where the samples are saved and eventually, its visualization is allowed.
