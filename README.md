@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66688256/146368822-8dc437d9-316a-4c23-b21d-a1f7a2b3dbd6.png)
+<img src="https://user-images.githubusercontent.com/66688256/146368822-8dc437d9-316a-4c23-b21d-a1f7a2b3dbd6.png" alt="Your image title" width = 900px height= 200px />
 
 
 ### Hi there 👋
@@ -12,11 +12,23 @@ I’m a true lover of technologies trying to become a well-rounded professional 
 
 
 ## 𝐌𝐲 𝐒𝐭𝐚𝐜𝐤:⁣
+
+
 •	JavaScript, TypeScript⁣
+
+
 •	React, React Native, Redux, Node, Express⁣
+
+
 •	SQL ( PostgreSQL, Sequelize)⁣
+
+
 •	C, C++ (MATLAB, Arduino and microcontrollers), Assembler⁣
+
+
 •	Simulation Softwares like Proteus, Tina, Matlab⁣
+
+
 •	Git⁣
 
 ⁣
@@ -27,11 +39,15 @@ How to reach me:
 •      https://www.linkedin.com/in/juan-ignacio-huarte/
 
 
-### Featured Projects
+
+## Featured Projects
+
 
 ## Videogames App
 
+
 First Academic App in Henry
+
 
 •	Development of a Single Page Application using ReactJs for the Front End, and Redux as stage management.
 
@@ -44,25 +60,27 @@ First Academic App in Henry
 
 •	Functionalities such as filters, sorting and controlled forms
 
+
 I'm gonna show you some pictures of my web application:
 
-** Landing page **
+
+### Landing page 
 
 ![image](https://user-images.githubusercontent.com/66688256/146369922-a3d0a8be-54e0-4084-8e3e-d2f75fe3160f.png)
 
-** Home Page **
+### Home Page 
 
 ![image](https://user-images.githubusercontent.com/66688256/146370078-ade11e9f-a869-40a6-8dc6-dbda6d29eda2.png)
 
 ![image](https://user-images.githubusercontent.com/66688256/146370130-7a58e41b-f54f-4833-a3af-62e8789a755e.png)
 
 
-** Videogame Detail **
+### Videogame Detail 
 
 ![image](https://user-images.githubusercontent.com/66688256/146370184-c7e9616d-f552-4fcb-a566-58288cbd33c4.png)
 
 
-** Create Your Own Videogame **
+### Create Your Own Videogame 
 
 ![image](https://user-images.githubusercontent.com/66688256/146370274-bff3665c-2175-44f9-9e64-c9a9b0d11cf1.png)
 
@@ -70,7 +88,9 @@ I'm gonna show you some pictures of my web application:
 
 ## Fianl Project 
 
+
 This project describes the design of a portable low-power signal acquisition and wireless transmitter device with autonomous power. Its function is to acquire an analog signal with a maximum bandwidth of 10KHz and two range amplitudes of ± 10V and ± 100mV. This must be done keeping a minimum dynamic range of 60dB for both cases. Then the digitized signal has to be transmitted wirelessly to an external receiver where the samples are saved and eventually, its visualization is allowed.
+
 
 This work consists in the design of the device, starting from the analog stage of acquisition, adaptation and conditioning, following with the stage of digital conversion and processing, and ending with the transmission and reception. Additionally, was designed the device's own power supply adapted to its portable characteristics.
 
