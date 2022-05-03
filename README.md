@@ -17,10 +17,10 @@ I’m a true lover of technologies trying to become a well-rounded professional 
 •	JavaScript, TypeScript⁣
 
 
-•	React, React Native, Redux, Node, Express⁣
+•	React, React Native, Redux, Node, Express⁣, NestJs, GraphQL
 
 
-•	SQL ( PostgreSQL, Sequelize)⁣
+•	SQL ( PostgreSQL, Sequelize)⁣, MongoDB
 
 
 •	C, C++ (MATLAB, Arduino and microcontrollers), Assembler⁣
